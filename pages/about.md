@@ -9,8 +9,10 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** 
 
-I am currently studying Computer Science at UC Irvine. I am an active member of Archery Club @ UCI. 
-
+I was born and raised in Sacramento, California.
+Currently studying Computer Science at UC Irvine for my BSc. I am an active member 
+of Archery Club @ UCI. This website is to showcase my projects and share my
+hobbies through blog posts.  
 
 <!-- Comment back in Later 
 <div class="row">
