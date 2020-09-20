@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Lillian Won 
-description         : >-
-                        "Computer Science Major
-                         Informatics Minor 
-                         @ University of California, Irvine" 
+description         : >+ 
+                        Computer Science Major <br />
+                        Informatics Minor <br /> 
+                        University of California, Irvine 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : lilwon/lilwon.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -24,10 +24,10 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Lillian Won 
-  image             : https://bit.ly/2KCvgVJ
-  behance           : your_username
+  image             : https://i1.lensdump.com/i/0IcQa2.jpg 
+# behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : lillian.won@live.com 
 # facebook          : your_username
   github            : lilwon 
 # gitlab            : your_username
