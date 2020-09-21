@@ -1,9 +1,9 @@
 ---
-title: Before the 2020-2021 School Year Begins
+title: Before the 2020-2021 School Year Began 
 tags: [PERSONAL, SUMMER] 
 style: fill 
 color: info 
-description: Talking about what I did over the summer. 
+description: What I did over the summer. 
 ---
 
 ## TLDR
@@ -98,12 +98,13 @@ I only finished the game because I enjoyed the series.
 ## Anime, Dramas, TV Shows, Movies
 * Weathering With You [天気の子](https://myanimelist.net/anime/38826/tenki_no_ko)
 * Mob Psycho 100 [モブサイコ100](https://myanimelist.net/anime/32182/Mob_Psycho_100)
-* Mr. Hiiragi's Homeroom [3年A組](https://wiki.d-addicts.com/3_nen_A_gumi)
+* Mr. Hiiragi's Homeroom [3年A組](https://wiki.d-addicts.com/3_nen_A_gumi) <br>
 ... and more
 
 Weathering With You was a pretty decent movie by Makoto Shinkai. It wasn't
-as great as Your Name, but the animation was still pretty decent. Radwimps 
-always does a great job with the movie soundtrack. 
+as great as Your Name, but the animation was still on par. I mostly watch
+Makoto Shinkai movies for the beautiful scenes anyways. 
+Radwimps always does a great job with their movie soundtracks. 
 
 Mob Psycho 100 -- I started watching this anime a few months ago, but I've
 been putting it off because it was more of a fun watch and I didn't want to
@@ -114,10 +115,15 @@ Mr. Hiiragi's Homeroom was a really good drama that I decided to watch on
 a whim. "LET'S THINK" was a really funny catch phrase that the teacher
 said every episode. The drama was very sad, but heart-warming in the end.
 
+I've watched a lot more shows than I've listed, but they are probably still 
+currently airing, I haven't finished watching them, or I simply forgot
+about them. 
+
 ___
 
 These are most of the memorable things that I've done this summer. Not much 
-to do because of COVID and the wild fires, but it was pretty chill. 
+to do because of COVID and the wild fires (AQI was pretty bad),
+making this summer pretty chill.
 
 If you're down here, thanks for reading my rambling blog post.
 
