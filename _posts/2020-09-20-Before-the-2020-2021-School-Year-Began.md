@@ -60,9 +60,9 @@ Type|Item|Price
  | *Prices include shipping, taxes, rebates, and discounts* |
  | **Total** | **$1171.20**
 
-I was able to get some things for free because they were gifted to me from
+I got some things for free because they were gifted to me from
 my friends for my birthday! The total MSRP of all items would be about 
-**$1600**, so I was able to save about $400. I kept a spreadsheet
+**$1600**, so I saved about $400. I kept a spreadsheet
 to markdown the timeline of when I bought all of the items and built the PC.
 I started looking at PC parts May 19 and purchased all of the parts on June 14. 
 The day I powered on the PC was July 11, 2020. 
@@ -96,9 +96,9 @@ I only finished the game because I enjoyed the series.
 
 
 ## Anime, Dramas, TV Shows, Movies
-* Weathering With You [天気の子](https://myanimelist.net/anime/38826/tenki_no_ko)
-* Mob Psycho 100 [モブサイコ100](https://myanimelist.net/anime/32182/Mob_Psycho_100)
-* Mr. Hiiragi's Homeroom [3年A組](https://wiki.d-addicts.com/3_nen_A_gumi) <br>
+* [天気の子](https://myanimelist.net/anime/38826/tenki_no_ko) Weathering With You
+* [モブサイコ100](https://myanimelist.net/anime/32182/Mob_Psycho_100) Mob Psycho 100
+* [3年A組](https://wiki.d-addicts.com/3_nen_A_gumi) Mr. Hiiragi's Homeroom <br>
 ... and more
 
 Weathering With You was a pretty decent movie by Makoto Shinkai. It wasn't

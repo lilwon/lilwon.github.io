@@ -1,5 +1,5 @@
-# About
-A website about me. 
+# Info 
+This is a website about me. 
 
-# Jekyll Theme 
+# Theme 
 Special thanks to the creator of [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
