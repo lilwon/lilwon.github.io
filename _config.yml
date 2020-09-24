@@ -32,6 +32,7 @@ author:
   github            : lilwon 
 # gitlab            : your_username
 # instagram         : your_username
+# kaggle            : your_username
 # linkedin          : your_username
 # medium            : your_username
 # soundcloud        : your_username
@@ -55,6 +56,16 @@ collections:
     permalink: /projects/:name
 
 
+### Disqus ###
+disqus: your-short-name-disqus                  # your website shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: false                               # set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
 ### Defaults for collections ###
 defaults:
   - scope:
@@ -62,6 +73,12 @@ defaults:
       type: "projects"
     values:
       layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                         # set true to enable disqus
+
 
 
 ### Exclude from processing ###
