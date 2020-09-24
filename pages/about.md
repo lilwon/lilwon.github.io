@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**.
+Hi! I am **{{ site.author.name }}**.
 
 I was born and raised in Sacramento County, CA. I am currently living in
 Irvine, CA to finish my undergraduate program. This website is used to showcase

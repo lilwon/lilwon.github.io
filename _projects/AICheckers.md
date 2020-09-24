@@ -7,7 +7,7 @@ description: An AI that plays checkers in C++.
 
 # AI Checkers 
 
-The checkers game was created as a project for CS-171 Introduction to
+The checkers game was a project for CS-171 Introduction to
 Artificial Intelligence during the Fall 2019 school year.
 
 The class repo can be found [here](https://gitlab.ics.uci.edu/ai-projects/Checkers_Student).
@@ -22,7 +22,7 @@ The class repo can be found [here](https://gitlab.ics.uci.edu/ai-projects/Checke
 
 ## Approach to creating a smart AI 
 
-![AI vs me](https://i1.lensdump.com/i/0Zc3mQ.png "AI vs Me")
+![AI vs Me](https://i1.lensdump.com/i/0Zc3mQ.png "AI vs Me")
  
 For the first deadline of our project, we had to make our AI smart enough
 to beat RandomAI and PoorAI. RandomAI was an AI that did any valid 
@@ -36,6 +36,8 @@ knew what functions we needed to use, it was pretty easy to code our own
 AI.
 
 #### Minimax algorithm 
+
+![Minimax Example](https://i1.lensdump.com/i/0Zc7Qk.png "Minimax Example")
 
 My partner and I first implemented the 
 [minimax algorithm](https://en.wikipedia.org/wiki/Minimax) to defeat RandomAI.
@@ -51,10 +53,12 @@ kinging(+7) pieces. Using the minimax algorithm beat RandomAI easily.
 
 We tested our algorithm against PoorAI, and it won about ~80% of the time,
 but to ensure it won every time against the AI, we changed our game tree
-number to 20, so it would predict the better move further down the game.
+number to 20, so it would predict the better move further into the game.
 This was enough to beat PoorAI.
 
 #### Alpha-beta pruning algorithm
+
+![Alpha-beta Pruning Example](https://i1.lensdump.com/i/0ZcOex.png "A-B Pruning")
 
 [Alpha-beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
 wasn't a difficult algorithm to code since it has the same features as 
