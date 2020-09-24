@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+
+<html lang="en" class="h-100">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Computer Science Major <br /> Informatics Minor <br />  University of California, Irvine 
+">
+
+  <title>Lillian Won</title>
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
+
+  <!-- Font Awesome CDN -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+
+  <!-- Bootstrap CSS CDN -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+  <!-- Animate CSS CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css" type="text/css"/>
+  
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/assets/css/style.css" type="text/css">
+
+</head>
+
+
+<body class="d-flex flex-column h-100">
+
+  <main class="flex-shrink-0 container mt-5">
+  <nav class="navbar navbar-expand-lg navbar-light">
+
+  <a class="navbar-brand" href="/"><h5><b>Lillian Won</b></h5></a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav ml-auto"><a class="nav-item nav-link active" href="/projects/">Projects</a>
+
+      <a class="nav-item nav-link " href="/blog/">Blog</a>
+
+      <a class="nav-item nav-link " href="/about/">About</a>
+
+      
+
+    </div>
+  </div>
+
+</nav>
+  <div class="col-lg-10 mx-auto mt-5 post">
+  <h1 id="ai-checkers">AI Checkers</h1>
+
+<p>The checkers game was created as a project for CS-171 Introduction to
+Artificial Intelligence during the Fall 2019 school year.</p>
+
+<p>The class repo can be found <a href="https://gitlab.ics.uci.edu/ai-projects/Checkers_Student">here</a>.</p>
+
+<h2 id="rules--limitations">Rules &amp; Limitations</h2>
+
+<ul>
+  <li>Must be written in Python, Java, or C++</li>
+  <li>8 minute time limit per player (16 min games max)</li>
+  <li>Tournament Games are best out of 3</li>
+  <li>American/British Checkers ruleset</li>
+</ul>
+
+<h2 id="approach-to-creating-a-smart-ai">Approach to creating a smart AI</h2>
+
+<p><img src="https://i1.lensdump.com/i/0Zc3mQ.png" alt="AI vs me" title="AI vs Me" /></p>
+
+<p>For the first deadline of our project, we had to make our AI smart enough
+to beat RandomAI and PoorAI. RandomAI was an AI that did any valid 
+random moves during its turn. PoorAI performed minimax (more info below)
+but with a very small game tree value.</p>
+
+<p>The hardest part of the project was, of course, getting started
+on it. My partner and I had to read through all of the files that were 
+given and break down each functions to understand what it did. Once we 
+knew what functions we needed to use, it was pretty easy to code our own 
+AI.</p>
+
+<h4 id="minimax-algorithm">Minimax algorithm</h4>
+
+<p>My partner and I first implemented the 
+<a href="https://en.wikipedia.org/wiki/Minimax">minimax algorithm</a> to defeat RandomAI.
+To summarize what the algorithm does, the AI chooses its optimal move (which
+would be its max) and assumes that the opponent would also choose its
+own optimal move (opponent would have its own max).</p>
+
+<p>What my partner and I chose to do was let the AI play its own game and
+perform minimax before making its best move against the opponent.
+We chose a small arbitrary number, 10, for our game tree. 
+We chose heuristic values for capturing(+5), losing(-3), and 
+kinging(+7) pieces. Using the minimax algorithm beat RandomAI easily.</p>
+
+<p>We tested our algorithm against PoorAI, and it won about ~80% of the time,
+but to ensure it won every time against the AI, we changed our game tree
+number to 20, so it would predict the better move further down the game.
+This was enough to beat PoorAI.</p>
+
+<h4 id="alpha-beta-pruning-algorithm">Alpha-beta pruning algorithm</h4>
+
+<p><a href="https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning">Alpha-beta pruning</a>
+wasn’t a difficult algorithm to code since it has the same features as 
+minimax, but more in depth.</p>
+
+<p>What alpha-beta pruning does is obtain a max node of an alpha value that’s
+greater than your beta value, then prune all nodes/values that are
+less than that alpha value. 
+The same thing would be for update the  min node to with the beta value.</p>
+
+<p>With alpha-beta pruning, it allows more of the game tree to be searched 
+since the pruning was fast compared to the simple minimax algorithm.</p>
+
+<p>Our algorithm beat SimpleAI and GoodAI easily, so my partner and I
+were pretty much done with this project after we implemented 
+alpha-beta pruning.</p>
+
+<h4 id="adding-a-few-tweaks">Adding a few tweaks</h4>
+
+<p>We added our own game timer for our AI because if it kept looking deeper into a
+single move, the game timer would eventually run out. So we gave our AI
+a 6 minute time limit to think about all of its move, and if it reaches over
+6 minutes, it would make random moves for the remainder of the game.</p>
+
+<p>We also reduced time by making our AI choose moves that were obviously
+advantageous (like capturing two or three pieces) and put more priority
+into those moves.</p>
+
+<h2 id="class-tournament-results">Class Tournament (Results!)</h2>
+
+<p>Near the end of the quarter, the TAs would host a tournament where 
+everyone’s AI would play against each other. Our AI was tied for <strong>3rd
+out of 70 groups</strong> (the tournament was between two lecture sections, so 200+ 
+students).</p>
+
+<p>It definitely made us happy because the top 10 groups would
+receive extra credit. Our hard work of trying to make our 
+AI smarter and faster paid off.</p>
+
+</div>
+  </main>
+
+  <footer class="mt-auto py-3 text-center">
+
+  <small class="text-muted mb-2">
+    <strong>Contact Me</strong>
+  </small>
+
+  <div class="container-fluid justify-content-center"><a class="social mx-1"  href="mailto:lillian.won[at]live[dot]com"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#db4437'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fas fa-envelope fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.github.com/lilwon"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#333333'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-github fa-1x"></i>
+    </a>
+
+</div>
+</footer>
+
+  <!-- GitHub Buttons -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!-- jQuery CDN -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Popper.js CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+
+<!-- Bootstrap JS CDN -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<!-- wow.js CDN & Activation -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
+<script> new WOW().init(); </script>
+
+<!-- Initialize all tooltips -->
+<script>
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+})
+</script>
+
+</body>
+
+</html>
