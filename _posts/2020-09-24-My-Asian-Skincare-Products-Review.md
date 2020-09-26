@@ -2,7 +2,7 @@
 title: My Asian Skincare Products Review
 tags: [PERSONAL, SKINCARE]
 style: fill
-color: info
+color: light 
 description: This is a review of almost all of the skincare
              products that I have tried in the past 5 years.
 ---
@@ -20,7 +20,9 @@ was always told to not touch my face and to not pop the pimples, but I never lis
 I got a lot of acne scars during high school and they never went away. 
 
 So for the past five years or so after reading forums and buying various products, I 
-finally found a few that helped clear my face.
+finally found a few that helped clear my face. I'm not going to give any numeric 
+ratings for the products because everyone's rating system may mean something else
+to others.
 
 ## Skin-type
 My skin type varies when I'm in a different environment (Northern California 
@@ -40,7 +42,6 @@ face never dries up after I finish washing it.
 
 {% capture carousel_images %}
 https://i1.lensdump.com/i/0grcum.jpg
-https://i1.lensdump.com/i/0grbAi.jpg
 {% endcapture %}
 {% include elements/carousel.html %}
 
@@ -100,3 +101,69 @@ https://i1.lensdump.com/i/0grbAi.jpg
    It was very liquidy and I think it did light up a few of my dark spots. There was a faint
    smell, but it didn't bother me too much. I don't think it improved my skin that much, 
    so I didn't purchase it again. 
+
+{% capture carousel_images %}
+https://i1.lensdump.com/i/0grbAi.jpg
+{% endcapture %}
+{% include elements/carousel.html %}
+
+8. [Dermaesthetics Super Moisture Cream](https://dermaestheticsusa.com/products/super-moisture-cream-2)<br>
+   A very pricey moisturizer that I am currently using. I get this item from my mom. It's
+   a very heavy moisturizer. I believe that the moisturizers lasts for a few hours on my 
+   face, but needs to be reapplied every so often. It has a decent scent, but the 
+   coverage isn't very great. I usually use a large amount to cover my entire face. If
+   I had to buy this product myself, I don't think I would use it.
+
+9. [Biore UV Aqua Watery Essence SPF50++++](https://www.amazon.com/Biore-Aqua-Watery-Essence-SPF50/dp/B071H7P3T8)<br>
+   This is my go-to sunscreen ever since I started my Asian beauty routine.
+   I always buy this product in a pack of 3 on Amazon. I believe it was either 
+   2016 or 2017 that Biore JP started to change the formula of this sunscreen.
+   The change that was noticeable to me was that there was now a metallic scent in the
+   sunscreen. It bothered me at first, but I continued to use it because it was still
+   a great sunscreen that lasted all day on my skin.  
+
+10. [Shiseido Anessa Perfect UV Sunscreen Milk](http://anessa.shiseido.co.jp/en/products/suncare/perfect_uv_sm/)<br>
+   I recently bought this sunscreen (September 2020) on Amazon because I wanted to
+   try something other than Biore. This sunscreen is very liquidy and has no scent. I really 
+   enjoy using this product so far. It was about $28, so a lot pricier than the Biore 3 pack I 
+   usually buy on Amazon. I would buy this again unless my wallet has a say in it...
+
+11. [Holy Snails Shark Sauce](https://www.holysnails.com/products/shark-sauce?variant=20909831686)<br>
+   **THIS IS MY FAVORITE PRODUCT.** Shark Sauce doesn't involve any sharks! Like I mentioned,
+   I've been struggling to hide/fade away my dark spots and after using shark sauce for more than
+   a year, I no longer have any acne spots. I've definitely noticed a dramatic change in my 
+   skin brightening whenever I use this product. You can also make this yourself, but I'm no
+   chemist so I'd rather just buy it from Holy Snails. I purchased the 30mL size and it has 
+   lasted me almost a whole year. 
+
+12. [Laneige Lip Sleeping Mask Berry Mix](https://us.laneige.com/products/lip-sleeping-mask)<br>
+   Need your lips feeling soft and smooth? Then this is the product you're looking for! I apply
+   this every morning and night like a lip balm every single day. 
+   Maybe that's too much, but my lips **LOVE** it. 
+   I purhcased this item in 2017 and am still using the same bottle now! It says it expires soon,
+   but I don't think it matters much because I'm almost done using it all. I'll probably try
+   the other scents/flavors when I run out, or another product since I've been using this
+   for almost 3 years.
+
+13. [Hado Labo Gokujyun Hyaluronic Lotion Premium](https://jp.rohto.com/hadalabo/promo/g-premium/)<br> 
+   I also bought this recently this year because I ran out of my Hado Labo Gokujyun Hyaluronic 
+   REGULAR verison. The premium version is much better for my face in a dry environment. It's
+   a toner so it's the first thing that you apply after you wash your face. It's very 
+   hydrating and does a better job than the regular version. I love Hado Labo because there's
+   no scent at all and it does what it needs to (which is to not make my face dry!). 
+
+14. [Stratia Liquid Gold](https://www.stratiaskin.com/products/liquid-gold)<br>
+   I got this product in June 2019. I use it on and off because I can't stand the scent it 
+   gives off. I was using it as a moisturizer, but it does not keep my face moisturzied for 
+   a long time. I don't think I would buy this again because of the price and the smell.
+
+## Overall
+
+I've tried a few more products within the last few years, but I didn't have the bottle or the box,
+so I forgot which items I bought. The item that was very effective for my face is Holy Snails
+Shark Sauce. It cleared and brighten up my face so much since I've used it. My favorite 
+moisturizer in this list would be the Joseon Dynasty Cream (if only it was cheaper!). And my 
+favorite sunscreen is the Biore pre-2016 edition. It's so much cheaper than the Shiseido Anessa.
+
+I hope you enjoyed reading my review of these items. I'll hope to do more soon!
+-LW 
