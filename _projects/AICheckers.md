@@ -22,7 +22,7 @@ The class repo can be found [here](https://gitlab.ics.uci.edu/ai-projects/Checke
 
 ## Approach to creating a smart AI 
 
-![AI vs Me](https://i1.lensdump.com/i/0Zc3mQ.png "AI vs Me")
+![AI vs Me](http://u.cubeupload.com/lilwon/manual01.png "AI vs Me")
  
 For the first deadline of our project, we had to make our AI smart enough
 to beat RandomAI and PoorAI. RandomAI was an AI that did any valid 
@@ -37,7 +37,7 @@ AI.
 
 #### Minimax algorithm 
 
-![Minimax Example](https://i1.lensdump.com/i/0Zc7Qk.png "Minimax Example")
+![Minimax Example](http://u.cubeupload.com/lilwon/minimaxexample.png "Minimax Example")
 
 My partner and I first implemented the 
 [minimax algorithm](https://en.wikipedia.org/wiki/Minimax) to defeat RandomAI.
@@ -58,7 +58,7 @@ This was enough to beat PoorAI.
 
 #### Alpha-beta pruning algorithm
 
-![Alpha-beta Pruning Example](https://i1.lensdump.com/i/0ZcOex.png "A-B Pruning")
+![Alpha-beta Pruning Example](http://u.cubeupload.com/lilwon/abprunexample.png "A-B Pruning")
 
 [Alpha-beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
 wasn't a difficult algorithm to code since it has the same features as 
