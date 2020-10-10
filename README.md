@@ -1,5 +1,8 @@
 # Info 
-This is a website about me. 
+A website about me. 
 
-# Theme 
-Special thanks to the creator of [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
+# Work In Progress
+My site will always be in a work in progress since I'll always be updating/adding blog posts. 
+
+## To-Do 
+* Add a navigation bar for blog posts and blog post like projects
