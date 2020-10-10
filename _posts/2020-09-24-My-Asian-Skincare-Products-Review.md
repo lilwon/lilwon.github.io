@@ -52,7 +52,7 @@ http://u.cubeupload.com/lilwon/2020092408.jpg
 http://u.cubeupload.com/lilwon/2020092409.jpg
 http://u.cubeupload.com/lilwon/2020092410.jpg
 {% endcapture %}
-{% include elements/carousel.html %}
+{% include elements/carousel.html name="first" %}
 
 1. [Banila Co Clean it Zero Cleansing Balm](https://banilausa.com/collections/clean-it-zero/products/clean-it-zero-cleansing-balm-original)<br>
    I've bought this product from an authentic Korean website in 2017. I **LOVED** the 
@@ -119,7 +119,7 @@ http://u.cubeupload.com/lilwon/2020092415.jpg
 http://u.cubeupload.com/lilwon/2020092416.jpg
 http://u.cubeupload.com/lilwon/2020092417.jpg
 {% endcapture %}
-{% include elements/carousel.html %}
+{% include elements/carousel.html name="second" %}
 
 {:start="8"}
 8. [Dermaesthetics Super Moisture Cream](https://dermaestheticsusa.com/products/super-moisture-cream-2)<br>
