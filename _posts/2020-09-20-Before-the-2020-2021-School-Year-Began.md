@@ -1,8 +1,8 @@
 ---
 title: Before the 2020-2021 School Year Began 
 tags: [PERSONAL, SUMMER] 
-style: fill 
-color: info 
+style: border 
+color: warning 
 description: What I did over the summer. 
 ---
 
