@@ -6,6 +6,8 @@ description: A project for my Internet of Things class.
 
 # Cooler Buddy
 
+The repo for this project can be found [here](https://github.com/lilwon/cooler-buddy).
+
 This project was made for my Internet of Things class in Fall 2020. I've never played with 
 an Arduino or Raspberry Pi before, so learning the interface of an Arduino was new and 
 interesting. The class that I built this project for was also pretty fun. I got to build a lot of
