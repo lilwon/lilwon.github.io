@@ -22,7 +22,7 @@ I really enjoyed learning web-dev. I created everything from
 scratch and learned a lot. It made me a lot happier knowing that I might
 really want to be a front or back-end developer (or full-stack!). I'm really
 grateful for resources like The Odin Project for being a great guide for
-learning all the materials. I'm haven't finished a track yet, but I'm
+learning all the materials. I haven't finished a track yet, but I'm
 getting there. Hopefully, I can do it during school as well, but with how
 my upcoming courses are next school year it's looking unlikely.  
 
@@ -35,13 +35,13 @@ etc. I couldn't even play any games like *Fortnite*, *League of Legends*,
 I've changed my Surface twice (Surface Book 3 in 2015, Surface Book 6 
 in 2018) and was my go-to device for taking notes and programming, but
 I wanted something that was more powerful -- something that could handle games,
-PhotoShop, many virtual machines. So it was either purchase a gaming laptop or
-build my own PC. I went with the latter.
+PhotoShop, virtual machines, etc. So it was either purchase a gaming laptop or
+build my own PC. I obviously went with the latter.
 
 I based my build off of [Logical Increment's](https://www.logicalincrements.com/) 
 Superb build. Since COVID was happening, lots of PC parts were out of stock and
 prices were up. Thankfully I found most of my items on sale through
-/r/buildapcsales.
+[/r/buildapcsales](https://www.reddit.com/r/buildapcsales/).
 
 Below is my PC build. The parts were bought from Amazon, Newegg, and BestBuy.
 
@@ -62,29 +62,30 @@ Type|Item|Price
 
 I got some things for free because they were gifted to me from
 my friends for my birthday! The total MSRP of all items would be about 
-**$1600**, so I saved about $400. I kept a spreadsheet
-to markdown the timeline of when I bought all of the items and built the PC.
-I started looking at PC parts May 19 and purchased all of the parts on June 14. 
+**$1600**, so I saved about **$400**. I kept a spreadsheet
+to keep track of when I bought all of the items and built the PC.
+So I apparently started looking at PC parts on May 19 and purchased all of the
+parts on June 14. 
 The day I powered on the PC was July 11, 2020. 
 
 
 The PC is definitely an upgrade from my 7 year old laptop. I can finally play
-games without any lag and run virtual machines without any trouble!
+games without any lag and run anything I want without any trouble!
 
-## Some games I played 
+## Some Games I Played 
 * [Persona 4 Golden](https://store.steampowered.com/app/1113000/Persona_4_Golden/)
 * [Persona 5 Royal](https://atlus.com/p5r/lang/en/)
 * [Kingdom Hearts III](https://www.kingdomhearts.com/3/us/home/)
 
 Persona 4 Golden was a game I got from my friend as a "welcome gift" for my PC.
-I was really grateful and I played the game for a bit. It's a really great 
-port from the PSVita....but I forgot how tiresome and repetitive the beginning 
+I was really grateful and I played the game for a bit. It's a good 
+port of the PSVita....but I forgot how tiresome and repetitive the beginning 
 of the game was, so I dropped it and went for Persona 5 Royal.
 
 I'm probably going to do a review of Persona 5 Royal in another post! 
 The game is a  
 great addition to Persona 5 (2016). The new character that was introduced is 
-captivating and her storyline is great. Atlus has done a really good job to
+captivating and her storyline is interesting! Atlus has done a really good job to
 integrate the character into the game. It made me enjoy the series again.
 Persona 5 Royal was the first game I platinumed on the PS4 too (it wasn't 
 hard). 
@@ -107,7 +108,7 @@ Makoto Shinkai movies for the beautiful scenes anyways.
 Radwimps always does a great job with their movie soundtracks. 
 
 Mob Psycho 100 -- I started watching this anime a few months ago, but I've
-been putting it off because it was more of a fun watch and I didn't want to
+been putting it off because it was more of a "fun" watch and I didn't want to
 binge it. It's a very light-hearted anime and I'll probably get to season 2
 eventually...
 

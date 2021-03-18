@@ -26,8 +26,8 @@ to others.
 
 ## Skin-type
 My skin type varies when I'm in a different environment (Northern California 
-and Southern California). I believe it's because of the moisture and mainly the water
-that I use to wash my face. <br> 
+vs Southern California). I believe it's because of the moisture/humidity level 
+and the water that I use to wash my face. <br> 
 
 NorCal - Dry <br>
 I'm not sure why my face becomes really dry in Sacramento. At home I am using soft water
@@ -38,7 +38,7 @@ My face **LOVES** Irvine weather. I'm not sure if the water is hard or soft, but
 face never dries up after I finish washing it.  
 
 
-## Skin care products review
+## Skin Care Products Review I
 
 **I have no affiliations to any of the products that are linked, listed, and shown** 
 
@@ -64,7 +64,8 @@ http://u.cubeupload.com/lilwon/2020092410.jpg
 
 2. [Beauty of Joseon Dynasty Cream](https://www.beautyofjoseon.com/product-page/dynasty-cream)<br>
    This was one of the first Asian moisturizers that I've tried and it was **AMAZING**. I've 
-   bought this item multiple times throughout the years of testing and I always came back to
+   bought this multiple times throughout the years of testing other moisturizers 
+   and I always came back to
    this. It smells great and hydrates my face for the entire day! 
    The only downside is that it's extremely pricely (~$25+) for a small bottle (50mL).
    It lasted me about 2-3 months before I had to get a new one. I bought this item
@@ -86,7 +87,7 @@ http://u.cubeupload.com/lilwon/2020092410.jpg
    I don't think it did anything either.  
 
 5. [COSRX Advanced Snail 96 Mucin Power Essence](https://www.cosrx.com/cosrx-advanced-snail-96-mucin-power-essence-1.html) <br>
-   I've bought this product multiple times (once from Korea, another from Amazon),
+   I've bought this product multiple times (once from Korea, a few times from Amazon),
    hoping and believing that snail essence/mucus 
    would heal my skin from pimples and acne scars, but nope. I only used it as a second
    moisturizer to hydrate my skin. I have no idea if it made my skin any better, but 
@@ -98,7 +99,7 @@ http://u.cubeupload.com/lilwon/2020092410.jpg
    than the COSRX one. Like the other snail product, I don't think it did anything 
    except hydrate my face similar to the COSRX Advanced Snail 96 Mucin. I felt like 
    this product was more pricey since I was paying the same price but for a smaller
-   amount (45mL).  Overall snails doesn't do anything to my skin besides keeping it
+   amount (45mL).  Overall, snails doesn't do anything to my skin besides 
    adding another layer of hydration.
 
 7. [Rohto Melano CC Vitamin C Essence](https://jp.rohto.com/melanocc/)<br>
@@ -108,6 +109,8 @@ http://u.cubeupload.com/lilwon/2020092410.jpg
    It was very liquidy and I think it did light up a few of my dark spots. There was a faint
    smell, but it didn't bother me too much. I don't think it improved my skin that much, 
    so I didn't purchase it again. 
+
+## Skin Care Product Review II
 
 {% capture carousel_images %}
 http://u.cubeupload.com/lilwon/2020092402.jpg
@@ -149,14 +152,14 @@ http://u.cubeupload.com/lilwon/2020092417.jpg
    a year, I no longer have any acne spots. I've definitely noticed a dramatic change in my 
    skin brightening whenever I use this product. You can also make this yourself, but I'm no
    chemist so I'd rather just buy it from Holy Snails. I purchased the 30mL size and it has 
-   lasted me almost a whole year. 
+   lasted me almost an entire year. 
 
 12. [Laneige Lip Sleeping Mask Berry Mix](https://us.laneige.com/products/lip-sleeping-mask)<br>
    Need your lips feeling soft and smooth? Then this is the product you're looking for! I apply
    this every morning and night like a lip balm every single day. 
    Maybe that's too much, but my lips **LOVE** it. 
    I purhcased this item in 2017 and am still using the same bottle now! It says it expires soon,
-   but I don't think it matters much because I'm almost done using it all. I'll probably try
+   but I don't think it matters much because I'm almost done using it. I'll probably try
    the other scents/flavors when I run out, or another product since I've been using this
    for almost 3 years.
 
@@ -175,7 +178,7 @@ http://u.cubeupload.com/lilwon/2020092417.jpg
 ## Overall
 
 I've tried a few more products within the last few years, but I didn't have the bottle or the box,
-so I forgot which items I bought. The item that was very effective for my face is Holy Snails
+so I forgot which items I used. The item that was very effective for my face is Holy Snails
 Shark Sauce. It cleared and brighten up my face so much since I've used it. My favorite 
 moisturizer in this list would be the Joseon Dynasty Cream (if only it was cheaper!). And my 
 favorite sunscreen is the Biore pre-2016 edition. It's so much cheaper than the Shiseido Anessa.
