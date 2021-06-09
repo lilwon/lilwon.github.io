@@ -1,11 +1,11 @@
 ---
-name: AI Checkers 
-tools: [C++, Artificial Intelligence]
-image: https://images.unsplash.com/photo-1551198581-aec5c1556d7c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80 
-description: An AI that plays checkers in C++.
+title: AI Checkers 
+layout: single
+toc: true
+toc_sticky: true
+# image: https://images.unsplash.com/photo-1551198581-aec5c1556d7c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80 
+excerpt: An AI that plays checkers in C++.
 ---
-
-# AI Checkers 
 
 The checkers game was a project for CS-171 Introduction to
 Artificial Intelligence during the Fall 2019 school year.
@@ -87,8 +87,8 @@ We also reduced time by making our AI choose moves that were obviously
 advantageous (like capturing two or three pieces) and put more priority
 into those moves. 
 
-## Class Tournament (Results!)
-
+### Class Tournament 
+--- 
 Near the end of the quarter, the TAs would host a tournament where 
 everyone's AI would play against each other. Our AI was tied for **3rd
 out of 70 groups** (the tournament was between two lecture sections, so 200+ 

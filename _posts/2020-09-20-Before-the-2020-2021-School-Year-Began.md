@@ -1,9 +1,12 @@
 ---
+layout: single
 title: Before the 2020-2021 School Year Began 
 tags: [PERSONAL, SUMMER] 
-style: border 
-color: warning 
-description: What I did over the summer. 
+categories: 
+  - Post
+toc: true
+toc_sticky: true
+toc_label: "Content"
 ---
 
 ## TLDR

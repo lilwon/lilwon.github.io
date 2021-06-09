@@ -1,10 +1,66 @@
 ---
+layout: single
 title: My Asian Skincare Products Review
+categories:
+  - Post 
 tags: [PERSONAL, SKINCARE]
-style: fill 
-color: light 
-description: This is a review of almost all of the skincare
+toc: true
+toc_sticky: true
+excerpt: This is a review of almost all of the skincare
              products that I have tried in the past 5 years.
+
+gallery:
+  - url: https://u.cubeupload.com/lilwon/2020092401.jpg
+    image_path: https://u.cubeupload.com/lilwon/2020092401.jpg
+    alt: "img1"
+  - url: https://u.cubeupload.com/lilwon/2020092404.jpg
+    image_path: https://u.cubeupload.com/lilwon/2020092404.jpg
+    alt: "img2"
+  - url: https://u.cubeupload.com/lilwon/2020092405.jpg
+    image_path: https://u.cubeupload.com/lilwon/2020092405.jpg
+    alt: "img3"
+  - url: https://u.cubeupload.com/lilwon/2020092406.jpg
+    image_path: https://u.cubeupload.com/lilwon/2020092406.jpg
+    alt: "img4"
+  - url: https://u.cubeupload.com/lilwon/2020092407.jpg
+    image_path: https://u.cubeupload.com/lilwon/2020092407.jpg
+    alt: "img5"
+  - url: https://u.cubeupload.com/lilwon/2020092408.jpg
+    image_path: https://u.cubeupload.com/lilwon/2020092408.jpg
+    alt: "img6"
+  - url: https://u.cubeupload.com/lilwon/2020092409.jpg
+    image_path: https://u.cubeupload.com/lilwon/2020092409.jpg
+    alt: "img7"
+  - url: https://u.cubeupload.com/lilwon/2020092410.jpg
+    image_path: https://u.cubeupload.com/lilwon/2020092410.jpg
+    alt: "img8"
+ 
+gallery1:
+  - url: https://u.cubeupload.com/lilwon/2020092402.jpg 
+    image_path: https://u.cubeupload.com/lilwon/2020092402.jpg 
+    alt: "img1"
+  - url: https://u.cubeupload.com/lilwon/2020092411.jpg 
+    image_path: https://u.cubeupload.com/lilwon/2020092411.jpg 
+    alt: "img2"
+  - url: https://u.cubeupload.com/lilwon/2020092412.jpg 
+    image_path: https://u.cubeupload.com/lilwon/2020092401.jpg 
+    alt: "img3"
+  - url: https://u.cubeupload.com/lilwon/2020092413.jpg 
+    image_path: https://u.cubeupload.com/lilwon/2020092413.jpg 
+    alt: "img4"
+  - url: https://u.cubeupload.com/lilwon/2020092414.jpg 
+    image_path: https://u.cubeupload.com/lilwon/2020092414.jpg 
+    alt: "img5"
+  - url: https://u.cubeupload.com/lilwon/2020092415.jpg 
+    image_path: https://u.cubeupload.com/lilwon/2020092415.jpg 
+    alt: "img6"
+  - url: https://u.cubeupload.com/lilwon/20200924016.jpg 
+    image_path: https://u.cubeupload.com/lilwon/2020092416.jpg 
+    alt: "img7"
+  - url: https://u.cubeupload.com/lilwon/2020092417.jpg 
+    image_path: https://u.cubeupload.com/lilwon/2020092417.jpg 
+    alt: "img8"
+
 ---
 
 ## TLDR 
@@ -42,17 +98,7 @@ face never dries up after I finish washing it.
 
 **I have no affiliations to any of the products that are linked, listed, and shown** 
 
-{% capture carousel_images %}
-http://u.cubeupload.com/lilwon/2020092401.jpg
-http://u.cubeupload.com/lilwon/2020092404.jpg
-http://u.cubeupload.com/lilwon/2020092405.jpg
-http://u.cubeupload.com/lilwon/2020092406.jpg
-http://u.cubeupload.com/lilwon/2020092407.jpg
-http://u.cubeupload.com/lilwon/2020092408.jpg
-http://u.cubeupload.com/lilwon/2020092409.jpg
-http://u.cubeupload.com/lilwon/2020092410.jpg
-{% endcapture %}
-{% include elements/carousel.html name="first" %}
+{% include gallery %} 
 
 1. [Banila Co Clean it Zero Cleansing Balm](https://banilausa.com/collections/clean-it-zero/products/clean-it-zero-cleansing-balm-original)<br>
    I've bought this product from an authentic Korean website in 2017. I **LOVED** the 
@@ -112,17 +158,7 @@ http://u.cubeupload.com/lilwon/2020092410.jpg
 
 ## Skin Care Product Review II
 
-{% capture carousel_images %}
-http://u.cubeupload.com/lilwon/2020092402.jpg
-http://u.cubeupload.com/lilwon/2020092411.jpg
-http://u.cubeupload.com/lilwon/2020092412.jpg
-http://u.cubeupload.com/lilwon/2020092413.jpg
-http://u.cubeupload.com/lilwon/2020092414.jpg
-http://u.cubeupload.com/lilwon/2020092415.jpg
-http://u.cubeupload.com/lilwon/2020092416.jpg
-http://u.cubeupload.com/lilwon/2020092417.jpg
-{% endcapture %}
-{% include elements/carousel.html name="second" %}
+{% include gallery id="gallery1" %}
 
 {:start="8"}
 8. [Dermaesthetics Super Moisture Cream](https://dermaestheticsusa.com/products/super-moisture-cream-2)<br>

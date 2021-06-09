@@ -1,10 +1,11 @@
 ---
-name: Cooler Buddy - A Smart Fan
-tools: [Arduino, C++, IoT]
-description: A project for my Internet of Things class.
+layout: single
+title: Cooler Buddy - A Smart Fan
+toc: true
+toc_sticky: true
+# tools: [Arduino, C++, IoT]
+excerpt: A project for my Internet of Things class.
 ---
-
-# Cooler Buddy
 
 The repo for this project can be found [here](https://github.com/lilwon/cooler-buddy).
 
