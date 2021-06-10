@@ -20,8 +20,8 @@ title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lillian Won"
-description              : "An website about me."
-url                      : "http://lillianwon.com" 
+description              : "A website about me."
+url                      : "https://lillianwon.com" 
 baseurl                  : # "/blog"
 repository               : "lilwon/lilwon.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -97,7 +97,7 @@ author:
   name             : "Lillian Won"
   avatar           : https://u.cubeupload.com/lilwon/pic.jpg
   bio              : "je pense, donc je suis" 
-  location         : "Sacramento, California"
+  location         : "Elk Grove, California"
   email            : # 
   links:
     - label: "Email"
@@ -275,7 +275,7 @@ collections:
 
 # Defaults
 defaults:
-  # _posts basically my blog posts 
+  # _posts - my blog posts 
   - scope:
       path: ""
       type: posts
