@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Lillian Won"
-  avatar           : https://u.cubeupload.com/lilwon/pic.jpg
+  avatar           : https://u.cubeupload.com/lilwon/20210702074315.jpg
   bio              : "je pense, donc je suis" 
   location         : "Elk Grove, California"
   email            : # 
@@ -282,7 +282,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      show_date: true
+      read_time: false 
       comments: false 
       share: false  
       related: false
