@@ -1,13 +1,13 @@
 ---
 layout: single
-title: The End of 2020
+title: Another Jigsaw Puzzle Finished
 categories:
   - Post
 tags: [PERSONAL, PUZZLE] 
 toc: true
 toc_sticky: true
 
-excerpt: Another 1000 piece jigsaw finished.  
+excerpt: Finished a 1000 piece jigsaw puzzle with my boyfriend.  
 ---
 
 ## TLDR
