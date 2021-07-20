@@ -29,9 +29,9 @@ I won't go into any details of the movie, but would like to say that it made me
 cry. The movie was on par to the anime series and ufotable did an amazing job
 being faithful to the manga. 
 
-## The Puzzle
+## Puzzle Building
 I was bored one day and was looking through Amazon JP to see if they had 
-any puzzles available. I always used [HLJ](https://www.hlj.com/) to buy all my Japanese jigsaw puzzles,
+any puzzles available. I always use [HLJ](https://www.hlj.com/) to buy all my Japanese jigsaw puzzles,
 but their good puzzles are always sold out or backordered. 
 
 <figure style="width: 200px" class="align-right">
@@ -46,10 +46,23 @@ puzzle to arrive, which is about the same as HLJ.
 
 My boyfriend and I did not start the puzzle until July 5. It took about 5 
 days to finish it (only 2-3 hours each day because we both have work). 
-I forgot to take progression photos until we were almost done... 
 
 <figure class="third">
   <img src="https://u.cubeupload.com/lilwon/2021070502.jpg">
   <img src="https://u.cubeupload.com/lilwon/2021070903.jpg">
   <img src="https://u.cubeupload.com/lilwon/2021071004.jpg">
 </figure>
+
+I forgot to take progression photos until we were almost done...
+The first image to the left is day one. The middle image is day four. And the
+right image is the completed puzzle. 
+
+The puzzle was very annoying because of the dark background. We had to use
+our phones' flashlight to differentiate the colors of the dark pieces. It 
+got to the point where we started to try to fit all the pieces to wherever
+it may work. Ensky puzzles are great since every piece/connection is unique. 
+
+I just bought a frame for the puzzle, so all we need to do is glue it  
+and find a spot for it in my room... along with the other puzzles.
+
+-LW 
