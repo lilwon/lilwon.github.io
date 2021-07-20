@@ -39,3 +39,7 @@ available were either 500 pieces or were 1000 pieces and did not look good.
 So when I found this puzzle on Amazon JP, I wanted to buy it asap. I showed 
 my boyfriend and he offered to buy it for me. :) 
 
+<figure style="width: 200px" class="align-left">
+  <img src="https://u.cubeupload.com/lilwon/2021070501.jpg" alt="puzzle-box">
+</figure>
+
