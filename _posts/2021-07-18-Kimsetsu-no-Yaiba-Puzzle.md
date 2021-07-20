@@ -17,7 +17,7 @@ Finished a Demon Slayer (鬼滅の刃) puzzle.
 ---
 
 It's been a few years since I did my last jigsaw puzzle. The last one I did was
-a Kingdom Hearts 3 puzzle in the summer of 2019.
+a Kingdom Hearts 3 puzzle in summer 2019.
 
 The puzzle that I did this time was a [Demon Slayer](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba_the_Movie:_Mugen_Train) puzzle. 
 
@@ -31,15 +31,25 @@ being faithful to the manga.
 
 ## The Puzzle
 I was bored one day and was looking through Amazon JP to see if they had 
-any puzzles available. I always used HLJ to buy all my Japanese jigsaw puzzles,
+any puzzles available. I always used [HLJ](https://www.hlj.com/) to buy all my Japanese jigsaw puzzles,
 but their good puzzles are always sold out or backordered. 
+
+<figure style="width: 200px" class="align-right">
+  <img src="https://u.cubeupload.com/lilwon/2021070501.jpg" alt="puzzle-box">
+</figure>
 
 I always wanted to do a Kimetsu no Yaiba puzzle, but the puzzles that were 
 available were either 500 pieces or were 1000 pieces and did not look good. 
 So when I found this puzzle on Amazon JP, I wanted to buy it asap. I showed 
-my boyfriend and he offered to buy it for me. :) 
+my boyfriend and he bought it for me. :) It took less than two weeks for the 
+puzzle to arrive, which is about the same as HLJ. 
 
-<figure style="width: 200px" class="align-left">
-  <img src="https://u.cubeupload.com/lilwon/2021070501.jpg" alt="puzzle-box">
+My boyfriend and I did not start the puzzle until July 5. It took about 5 
+days to finish it (only 2-3 hours each day because we both have work). 
+I forgot to take progression photos until we were almost done... 
+
+<figure class="third">
+  <img src="https://u.cubeupload.com/lilwon/2021070502.jpg">
+  <img src="https://u.cubeupload.com/lilwon/2021070903.jpg">
+  <img src="https://u.cubeupload.com/lilwon/2021071004.jpg">
 </figure>
-
