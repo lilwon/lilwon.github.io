@@ -32,12 +32,15 @@ _site
 .bundle
 Gemfile.lock
 Rakefile
+minimal-mistakes-jekyll.gemspec
 
 # Github
 .github
+.gitattributes
 
 # Minimal Mistakes
 docs/
 test/
 CHANGELOG.md
 README.md
+.editorconfig
