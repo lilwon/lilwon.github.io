@@ -5,6 +5,7 @@ toc: true
 toc_sticky: true
 # image: https://images.unsplash.com/photo-1551198581-aec5c1556d7c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80 
 excerpt: An AI that plays checkers in C++.
+author_profile: true
 ---
 
 The checkers game was a project for CS-171 Introduction to

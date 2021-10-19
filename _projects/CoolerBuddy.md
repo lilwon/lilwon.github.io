@@ -5,6 +5,7 @@ toc: true
 toc_sticky: true
 # tools: [Arduino, C++, IoT]
 excerpt: A project for my Internet of Things class.
+author_profile: true
 ---
 
 The repo for this project can be found [here](https://github.com/lilwon/cooler-buddy).

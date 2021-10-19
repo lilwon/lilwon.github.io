@@ -4,6 +4,7 @@ title: Building a Search Engine
 toc: true
 toc_sticky: true
 excerpt: Building a search engine from scratch
+author_profile: true
 ---
 
 The repo for this project can be found [here](https://github.com/lilwon/ICS-Search-Engine).
