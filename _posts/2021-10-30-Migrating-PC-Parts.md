@@ -68,7 +68,7 @@ And here's the build:
 What's not pictured are the extra case fans.
 I put two arctic fans on the top as an exhaust. I have 3 more arctic fans 
 and I'll probably add it below the GPU. The cable management isn't that great right now.
-I'll add/get custom cables for that, but it doesn't looking too bad
+I'll add/get custom cables for that, but it doesn't look too bad
 the way it is right now.   
 
 The new build doesn't generate that much heat compared to my old build. I've been
