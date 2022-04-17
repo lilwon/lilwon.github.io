@@ -20,7 +20,7 @@ title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lillian Won"
-description              : "A website about me."
+description              : # "A website about me."
 url                      : "https://lillianwon.com" 
 baseurl                  : # "/blog"
 repository               : "lilwon/lilwon.github.io"
@@ -97,12 +97,9 @@ author:
   name             : "Lillian Won"
   avatar           : https://u.cubeupload.com/lilwon/pic2.jpg 
   bio              : "je pense, donc je suis" 
-  location         : "Elk Grove, California"
+  location         : "California"
   email            : # 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:lillian.won@live.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -189,8 +186,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -256,18 +253,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts - my blog posts 
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      show_date: true
-      read_time: false 
-      comments: false 
-      share: false  
-      related: false
   # _pages - single individ pages..
   - scope:
       path: "_pages"

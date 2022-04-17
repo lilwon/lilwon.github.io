@@ -1,15 +1,16 @@
 ---
-permalink: /about/
+permalink: /
 title: "About Me"
 ---
 Hi! I am **Lillian Won**.
 
-I was born and raised in Sacramento County, CA.
-I am currently a database administrator for a company in Folsom. 
- 
-This website is used to showcase some projects and hobbies when I'm not
-working. 
-Some of my hobbies include coding, gaming, papercrafting,
-cooking, and more! 
+I was born and raised in Northern California. I received my Bachelor of Computer Science from UC Irvine. 
+I am currently a database analyst for a company in Folsom.
 
-Feel free to learn more about me through my blog posts and projects :)
+I love working with Big Data and NoSQL databases. 
+On the side, I enjoy studying algorithms and other software development stacks (mostly backend development since that's where the data is!). 
+In general, I just really love to learn. (:
+
+This website is used to mainly showcase my projects and what I'm learning. 
+
+If you would like to reach out to me, please contact me through LinkedIn. 
