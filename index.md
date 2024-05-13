@@ -1,7 +1,8 @@
 ---
-permalink: /
-title: "About Me"
+layout: home
+author_profile: true
 ---
+
 Hi! I am **Lillian Won**.
 
 I was born and raised in Northern California. I received my Bachelor of Computer Science from UC Irvine. 
