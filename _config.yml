@@ -168,7 +168,6 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -339,3 +338,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # blog posts
+  - scope:
+      path: "_posts"
+      type: posts 
+    values:
+      layout: single
+      author_profile: true
+  

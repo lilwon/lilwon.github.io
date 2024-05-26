@@ -1,7 +1,6 @@
 # main links
 main:
-  # - title: "About"
   - title: "Projects"
     url: /projects/ 
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Posts"
+    url: /posts/
