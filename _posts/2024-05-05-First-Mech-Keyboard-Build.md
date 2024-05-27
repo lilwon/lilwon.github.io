@@ -102,8 +102,7 @@ Testing that all the wiring is correct. Was blinded by the RGB.
   <img src="https://u.cubeupload.com/lilwon/kb20240520.jpg">
 </figure>
 
-And now to pop those keycaps on! I also ended up doing the tape mod because
-to make the keyboard sound better. I like the keyboard so far, but the keycaps interior
+And now to pop those keycaps on! I also ended up doing the tape mod to make the keyboard sound better. I like the keyboard so far, but the keycaps interior
 of resin is cracking. Not sure why it's cracking but it looks like 
 it's from the stem pushing up. I assigned the `Fn` key plus `Home` key to make it the 
 `Insert` key. I rely on the insert button a lot especially for Excel. Other than that, 
