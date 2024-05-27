@@ -328,16 +328,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: false 
-      comments: # true
       share: false 
       related: false
-  # _projects
-  - scope: 
-      path: "_projects"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
   # blog posts
   - scope:
       path: "_posts"
@@ -345,4 +337,5 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
   
