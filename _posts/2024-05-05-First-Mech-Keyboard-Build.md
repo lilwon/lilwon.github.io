@@ -3,7 +3,8 @@ layout: single
 title: First Mechanical Keyboard Build 
 toc: true
 toc_sticky: true
-excerpt: How to build a 75% mechanical keyboard.  
+excerpt: How to build a 75% mechanical keyboard. 
+last_modified_at: 2024-06-12
 ---
 
 ## TLDR
@@ -11,14 +12,14 @@ Built a 75% mechanical keyboard.
 
 ## How It Started
 I've always wanted to build my own keyboard. 
-My gateway to mechanical keyboards was the Cosair Vengeance K65 Compact with Cherry MX Red switches.
-I bought the Cosair keyboard the beginning of 2016. 
+My gateway to mechanical keyboards was the Corsair Vengeance K65 Compact with Cherry MX Red switches.
+I bought the Corsair keyboard the beginning of 2016. 
 Back then I used to play osu! a lot  
 and the keyboard would help me press keys faster as it is a linear switch. 
 A couple of months later in 2016, I bought a Ducky One TKL which I'm still using to this day, even at this moment...
 
-The Cosair keyboard is might get retired very soon since the right `Ctrl` and `Shift`
-key are beginning to stick. I tried taking the Cosair apart because it might just need
+The Corsair keyboard is might get retired very soon since the right `Ctrl` and `Shift`
+key are beginning to stick. I tried taking the Corsair apart because it might just need
 lubricant but the switches are soldered to the PCB. 
 
 Anyway... I finally took the initiative and gathered everything to build my first keyboard.
@@ -109,5 +110,17 @@ it's from the stem pushing up. I assigned the `Fn` key plus `Home` key to make i
 I'm already use to the 75% layout. 
 
 First keyboard down, more to come? 
+
+## June 2024 Update
+After a month of using the keyboard, I still enjoy the way it sounds. The aesthetics actually made me a bit sad though.
+
+The Kabuki-Cho R2 keycaps began to develop visible cracks on the top of a few alpha keys. 
+At the time of writing this, I've counted at least 17 keys that had visible or slightly visible cracks. 
+I do not know if it's due to the Kailh Box Winter switches and the ABS keycap material. 
+There were issues years ago that Box switches were stretching the keycap stems, but this should be now fixed. 
+
+I checked the stems and I did not see any signs of any wear. I reached out to KBDFans' (where I purchased the set) 
+chat and they handled it very well! They asked for photos of the cracks and are working on sending me replacement
+keys. 
 
 -LW
