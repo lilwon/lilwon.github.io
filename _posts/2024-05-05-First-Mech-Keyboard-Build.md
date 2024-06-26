@@ -4,7 +4,7 @@ title: First Mechanical Keyboard Build
 toc: true
 toc_sticky: true
 excerpt: How to build a 75% mechanical keyboard. 
-last_modified_at: 2024-06-12
+last_modified_at: 2024-06-24
 ---
 
 ## TLDR
@@ -18,7 +18,7 @@ Back then I used to play osu! a lot
 and the keyboard would help me press keys faster as it is a linear switch. 
 A couple of months later in 2016, I bought a Ducky One TKL which I'm still using to this day, even at this moment...
 
-The Corsair keyboard is might get retired very soon since the right `Ctrl` and `Shift`
+The Corsair keyboard might get retired very soon since the right `Ctrl` and `Shift`
 key are beginning to stick. I tried taking the Corsair apart because it might just need
 lubricant but the switches are soldered to the PCB. 
 
@@ -32,7 +32,8 @@ I prefer what I already have which is a ten keys less (TKL, 80%) keyboard. For m
 first build I went for a 75% keyboard. It had the function keys and it removed some
 unnecessary keys like `PrtSc`, `ScrLk`, and `Pause`. 
 
-I bought a Keychron V1 barebones kit with a knob. It had all the parts that I needed to
+I bought a [Keychron V1](https://www.keychron.com/products/keychron-v1-qmk-via-custom-mechanical-keyboard?variant=40026442629209) 
+barebones kit with a knob. It had all the parts that I needed to
 build a keyboard and it is hot swappable (no soldering required).
 
 The Keychron V1 came with:
@@ -57,7 +58,8 @@ it only requires around 38 grams-force.
 
 ### Keycaps
 And the final step is to buy keycaps. Keycaps come in many forms. Most keycaps are
-Cherry styled keycaps. I decided to buy the Kabuki-cho R2 base keycaps set from PBTFans. 
+Cherry styled keycaps. I decided to buy the [Kabuki-cho R2](https://kbdfans.com/products/pbtfans-kabuki-cho-r2?variant=41652365918347) 
+base keycaps set from PBTFans. 
 I was looking around for keycaps to buy and the Kabuki-cho R2 was in its final phase 
 of getting released. I was playing the Yakuza series at the time and this set was
 an instant buy. 
@@ -111,7 +113,9 @@ I'm already use to the 75% layout.
 
 First keyboard down, more to come? 
 
-## June 2024 Update
+## June 2024 Update 
+2024-06-12
+
 After a month of using the keyboard, I still enjoy the way it sounds. The aesthetics actually made me a bit sad though.
 
 The Kabuki-Cho R2 keycaps began to develop visible cracks on the top of a few alpha keys. 
@@ -122,5 +126,14 @@ There were issues years ago that Box switches were stretching the keycap stems, 
 I checked the stems and I did not see any signs of any wear. I reached out to KBDFans' (where I purchased the set) 
 chat and they handled it very well! They asked for photos of the cracks and are working on sending me replacement
 keys. 
+
+## Another June 2024 Update
+2024-06-24
+
+After reaching out to KBDFans about the issue, they were able to replace a lot of the keycaps with very visible cracks on them.
+I received the new keycaps on either on June 17 at the end of day. June 18, I replaced the keycaps and it looked good as new! 
+
+It's now June 24 and I started noticing cracks on top of some keys that I already replaced. Definitely going to reach out
+to KBDFans for additional replacement keys and retire this keycap set... 
 
 -LW
