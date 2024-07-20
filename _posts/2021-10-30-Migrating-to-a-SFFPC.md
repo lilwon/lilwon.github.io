@@ -1,12 +1,7 @@
 ---
-layout: single
 title: Migrating to a SFFPC 
-#categories:
-#  - Post
-#tags: [PERSONAL] 
-toc: true
-toc_sticky: true
 excerpt: Need more space? Build a small form factor PC.
+last_modified_at: 2024-07-19
 ---
 
 ## TLDR
@@ -27,7 +22,7 @@ much on my free time.
   <img src="https://u.cubeupload.com/lilwon/2021102101.jpg" alt="">
 </figure>
 
-The list for my old build can be found [here](https://lillianwon.com/post/Before-the-2020-2021-School-Year-Began/#building-my-own-tower-pc).
+The list for my old build can be found [here](https://lillianwon.com/post/Building-my-own-Tower-PC/).
 On the right is what my build looks like with the Meshify C case. 
 It was tough hauling it everywhere (to Irvine and back...) 
 I had to drag it to the garage to clean out the dust multiple times a year. 

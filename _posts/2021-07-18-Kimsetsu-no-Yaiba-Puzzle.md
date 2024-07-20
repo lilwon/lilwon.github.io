@@ -1,12 +1,5 @@
 ---
-layout: single
-title: Another Jigsaw Puzzle Finished
-#categories:
-#  - Post
-#tags: [PERSONAL, PUZZLE] 
-toc: true
-toc_sticky: true
-
+title: Kimsetu no Yaiba Puzzle 
 excerpt: Finished a 1000 piece jigsaw puzzle with my boyfriend.  
 ---
 

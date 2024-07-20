@@ -4,7 +4,7 @@ title: First Mechanical Keyboard Build
 toc: true
 toc_sticky: true
 excerpt: How to build a 75% mechanical keyboard. 
-last_modified_at: 2024-06-24
+last_modified_at: 2024-07-19
 ---
 
 ## TLDR
@@ -15,10 +15,10 @@ I've always wanted to build my own keyboard.
 My gateway to mechanical keyboards was the Corsair Vengeance K65 Compact with Cherry MX Red switches.
 I bought the Corsair keyboard the beginning of 2016. 
 Back then I used to play osu! a lot  
-and the keyboard would help me press keys faster as it is a linear switch. 
+and the keyboard would help me press keys faster since it was a linear switch. 
 A couple of months later in 2016, I bought a Ducky One TKL which I'm still using to this day, even at this moment...
 
-The Corsair keyboard might get retired very soon since the right `Ctrl` and `Shift`
+The Corsair keyboard might retire very soon as the right `Ctrl` and `Shift`
 key are beginning to stick. I tried taking the Corsair apart because it might just need
 lubricant but the switches are soldered to the PCB. 
 
@@ -114,7 +114,8 @@ I'm already use to the 75% layout.
 First keyboard down, more to come? 
 
 ## June 2024 Update 
-2024-06-12
+
+### 2024-06-12
 
 After a month of using the keyboard, I still enjoy the way it sounds. The aesthetics actually made me a bit sad though.
 
@@ -127,8 +128,7 @@ I checked the stems and I did not see any signs of any wear. I reached out to KB
 chat and they handled it very well! They asked for photos of the cracks and are working on sending me replacement
 keys. 
 
-## Another June 2024 Update
-2024-06-24
+### 2024-06-24
 
 After reaching out to KBDFans about the issue, they were able to replace a lot of the keycaps with very visible cracks on them.
 I received the new keycaps on either on June 17 at the end of day. June 18, I replaced the keycaps and it looked good as new! 

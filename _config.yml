@@ -317,6 +317,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:title/ 
 
 # Defaults
 defaults:
@@ -327,15 +330,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false 
-      share: false 
-      related: false
   # blog posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts 
     values:
       layout: single
       author_profile: true
       show_date: true
+      toc: true
+      toc_sticky: true
   
