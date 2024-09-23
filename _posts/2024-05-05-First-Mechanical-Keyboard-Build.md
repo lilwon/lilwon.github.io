@@ -4,7 +4,7 @@ title: First Mechanical Keyboard Build
 toc: true
 toc_sticky: true
 excerpt: How to build a 75% mechanical keyboard. 
-last_modified_at: 2024-07-19
+last_modified_at: 2024-09-22
 ---
 
 ## TLDR
@@ -116,7 +116,6 @@ First keyboard down, more to come?
 ## June 2024 Update 
 
 ### 2024-06-12
-
 After a month of using the keyboard, I still enjoy the way it sounds. The aesthetics actually made me a bit sad though.
 
 The Kabuki-Cho R2 keycaps began to develop visible cracks on the top of a few alpha keys. 
@@ -129,7 +128,6 @@ chat and they handled it very well! They asked for photos of the cracks and are 
 keys. 
 
 ### 2024-06-24
-
 After reaching out to KBDFans about the issue, they were able to replace a lot of the keycaps with very visible cracks on them.
 I received the new keycaps on either on June 17 at the end of day. June 18, I replaced the keycaps and it looked good as new! 
 
@@ -137,7 +135,6 @@ It's now June 24 and I started noticing cracks on top of some keys that I alread
 to KBDFans for additional replacement keys and retire this keycap set... 
 
 ## 2024-08-27
-
 Reached out to KBDFans support again around July 2024 to get replacement keycaps again. This time, I requested for more keys to replace.
 I had to reach out twice because I didn't get any updates for a while. I received my key replacements on 2024-08-27. 
 All but one key was replace. The last key that is still cracked is the right-arrow key. 
