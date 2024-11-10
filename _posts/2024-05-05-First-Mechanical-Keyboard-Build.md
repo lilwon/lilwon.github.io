@@ -134,7 +134,7 @@ I received the new keycaps on either on June 17 at the end of day. June 18, I re
 It's now June 24 and I started noticing cracks on top of some keys that I already replaced. Definitely going to reach out
 to KBDFans for additional replacement keys and retire this keycap set... 
 
-## 2024-08-27
+### 2024-08-27
 Reached out to KBDFans support again around July 2024 to get replacement keycaps again. This time, I requested for more keys to replace.
 I had to reach out twice because I didn't get any updates for a while. I received my key replacements on 2024-08-27. 
 All but one key was replace. The last key that is still cracked is the right-arrow key. 
