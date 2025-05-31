@@ -316,7 +316,7 @@ compress_html:
 collections:
   projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:title/
   posts:
     output: true
     permalink: /:collection/:title/ 
