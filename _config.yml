@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -164,7 +164,7 @@ footer:
     - label: "LinkedIn" 
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/lillian-won"
-  since: "2013"
+  #since: "2013"
 
 # Reading Files
 include:
