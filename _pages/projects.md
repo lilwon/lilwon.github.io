@@ -3,7 +3,6 @@ title: Projects
 layout: collection
 permalink: /projects/
 collection: projects
-entires_layout: grid
 classes: wide
 ---
 
