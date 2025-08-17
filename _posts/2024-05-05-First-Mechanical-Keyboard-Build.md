@@ -113,7 +113,7 @@ I'm already use to the 75% layout.
 
 First keyboard down, more to come? 
 
-## June 2024 Update 
+## Update 
 
 ### 2024-06-12
 After a month of using the keyboard, I still enjoy the way it sounds. The aesthetics actually made me a bit sad though.
