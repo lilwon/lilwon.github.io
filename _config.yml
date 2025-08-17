@@ -321,8 +321,8 @@ collections:
     output: true
     permalink: /:collection/:title/
   posts:
-    output: true
-    permalink: /:collection/:title/ 
+    ouptut: true
+    permalink: /:collection/:title/
 
 # Defaults
 defaults:
@@ -335,7 +335,7 @@ defaults:
       author_profile: true
   # blog posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts 
     values:
       layout: single
