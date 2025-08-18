@@ -3,6 +3,7 @@ title: "Keyboard Collection"
 permalink: /keyboards/
 author_profile: true
 toc: true
+toc_sticky: true
 last_modified_at: 2025-08-17
 ---
 
