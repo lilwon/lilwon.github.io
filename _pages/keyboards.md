@@ -14,6 +14,11 @@ All stabilizer housing are lubed with Krytox 205g0 and wires are lubed with Perm
 
 ## Bauer Lite
 
+<figure class="align-center" style="width: 500px">
+  <img src="https://u.cubeupload.com/lilwon/bauerliteadj.jpg">
+</figure>
+
+
 Type|Description|Notes
 :----|:----|:----
 **Mount** | Isolation 
@@ -25,6 +30,11 @@ Type|Description|Notes
 ## Keychron V1*
 Build post can be found [here](https://lillianwon.com/posts/First-Mechanical-Keyboard-Build/).
 
+<figure class="align-center" style="width: 500px">
+  <img src="https://u.cubeupload.com/lilwon/keychronv1adj.jpg">
+</figure>
+
+
 Type|Description|Notes
 :----|:----|:----
 **Mount** | Tray 
@@ -34,7 +44,11 @@ Type|Description|Notes
 **Mod** | Tape Mod
 
 
-## MKC75*  
+## MKC75* 
+
+<figure class="align-center" style="width: 500px">
+  <img src="https://u.cubeupload.com/lilwon/mkc75adj.jpg">
+</figure>
 
 Type|Description|Notes
 :----|:----|:----
@@ -44,6 +58,10 @@ Type|Description|Notes
 **Stabilizers** | MKC | Included with Build 
 
 ## W70
+
+<figure class="align-center" style="width: 500px">
+  <img src="https://u.cubeupload.com/lilwon/w70.jpg">
+</figure>
 
 Type|Description|Notes
 :----|:----|:----
