@@ -23,7 +23,7 @@ Type|Description|Notes
 :----|:----|:----
 **Mount** | Isolation 
 **Keycaps** | GMK Dualshot 2 | Katakana Base 
-**Switches** | Glorious Panda | Lubed with Krytox 205g0
+**Switches** | Glorious Panda | Lubed with Tribosys 3203 
 **Stabilizers** | TX AP  
 
 
@@ -39,7 +39,7 @@ Type|Description|Notes
 :----|:----|:----
 **Mount** | Tray 
 **Keycaps** | GMK Oblivion V2 | Git Base 
-**Switches** | TTC Silent Frozen V2 | Lubed with Tribosys 3203 
+**Switches** | TTC Silent Frozen V2 | Lubed with Krytox 205g0
 **Stabilizers** | Durock V2
 **Mod** | Tape Mod
 
