@@ -66,6 +66,6 @@ Type|Description|Notes
 Type|Description|Notes
 :----|:----|:----
 **Mount** | Spring 
-**Keycaps** | GMK Metropolis R2 
+**Keycaps** | GMK Metropolis R2 | Base + Signs
 **Switches** | Gateron Oil King
 **Stabilizers** | AEBoards Staebies
