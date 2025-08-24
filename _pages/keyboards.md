@@ -53,11 +53,13 @@ Type|Description|Notes
 Type|Description|Notes
 :----|:----|:----
 **Mount** | Plate Gasket 
-**Keycaps** | KAM superuser | alphas + mods_terminal + spacebars 
+**Keycaps** | KAM superuser | alphas + mods_terminal + spacebars + artisan 
 **Switches** | Gateron Oil King
 **Stabilizers** | MKC | Included with Build 
 
 ## W70
+Build post can be found [here](https://lillianwon.com/posts/W70-Build/).
+
 
 <figure class="align-center" style="width: 500px">
   <img src="https://u.cubeupload.com/lilwon/w70.jpg">
