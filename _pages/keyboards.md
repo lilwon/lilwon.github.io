@@ -1,13 +1,14 @@
 ---
-title: "Keyboard Collection"
+title: "Collection"
 permalink: /keyboards/
 author_profile: true
 toc: true
 toc_sticky: true
-last_modified_at: 2025-08-17
+last_modified_at: 2025-10-04
 ---
 
-Keyboards with * are being used 
+# Keyboards
+Keyboards marked with * are being used. 
 
 All stabilizer housing are lubed with Krytox 205g0 and wires are lubed with Permatex dielectric grease. 
 
@@ -44,7 +45,7 @@ Type|Description|Notes
 **Mod** | Tape Mod
 
 
-## MKC75* 
+## MKC75 
 
 <figure class="align-center" style="width: 500px">
   <img src="https://u.cubeupload.com/lilwon/mkc75adj.jpg">
@@ -57,17 +58,27 @@ Type|Description|Notes
 **Switches** | Gateron Oil King
 **Stabilizers** | MKC | Included with Build 
 
-## W70
+## W70*
 Build post can be found [here](https://lillianwon.com/posts/W70-Build/).
 
 
 <figure class="align-center" style="width: 500px">
-  <img src="https://u.cubeupload.com/lilwon/w70.jpg">
+  <img src="https://u.cubeupload.com/lilwon/w70update.jpg">
 </figure>
 
 Type|Description|Notes
 :----|:----|:----
 **Mount** | Spring 
-**Keycaps** | GMK Metropolis R2 | Base + Signs
+**Keycaps** | GMK Yeeti | GMK Metropolis Signs   
 **Switches** | Gateron Oil King
 **Stabilizers** | AEBoards Staebies
+
+
+---
+
+# Keycap Sets
+Here are some keycap sets that I have that aren't being used. 
+They get swapped around every once in a while.
+
+* GMK Metrpolis R2
+* PBTFANS Kabuki-cho 歌舞伎町 R2
