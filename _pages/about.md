@@ -2,9 +2,7 @@
 permalink: /
 title: "About Me"
 ---
-Hi! I am **Lillian Won**.
-
-I was born and raised in Northern California. I graduated UC Irvine with a degree in Computer Science and a minor in Informatics. 
+Hi! I am **Lillian**.
 
 I love working with Big Data and NoSQL databases. 
 On the side, I enjoy studying algorithms and other software development stacks (mostly backend development since that's where the data is!). 

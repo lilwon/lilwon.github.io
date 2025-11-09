@@ -4,7 +4,7 @@ permalink: /keyboards/
 author_profile: true
 toc: true
 toc_sticky: true
-last_modified_at: 2025-10-04
+last_modified_at: 2025-11-06
 ---
 
 # Keyboards
@@ -45,7 +45,7 @@ Type|Description|Notes
 **Mod** | Tape Mod
 
 
-## MKC75 
+## MKC75*
 
 <figure class="align-center" style="width: 500px">
   <img src="https://u.cubeupload.com/lilwon/mkc75adj.jpg">
@@ -58,7 +58,7 @@ Type|Description|Notes
 **Switches** | Gateron Oil King
 **Stabilizers** | MKC | Included with Build 
 
-## W70*
+## W70
 Build post can be found [here](https://lillianwon.com/posts/W70-Build/).
 
 
@@ -76,9 +76,14 @@ Type|Description|Notes
 
 ---
 
-# Keycap Sets
+# Standby Keycap & Switches
 Here are some keycap sets that I have that aren't being used. 
 They get swapped around every once in a while.
 
+## Keycap Sets
 * GMK Metrpolis R2
 * PBTFANS Kabuki-cho 歌舞伎町 R2
+
+## Switches
+* Gateron Baby Kangaroo 2.0
+* Kailh Box Winter
