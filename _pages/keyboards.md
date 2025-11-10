@@ -58,6 +58,21 @@ Type|Description|Notes
 **Switches** | Gateron Oil King
 **Stabilizers** | MKC | Included with Build 
 
+
+## QK Alice Duo*
+Build post can be found [here](https://lillianwon.com/posts/QK-Alice-Duo-Build/)
+<figure class="align-center" style="width: 500px">
+  <img src="https://u.cubeupload.com/lilwon/QKAliceDuo6.jpg">
+</figure>
+
+
+Type|Description|Notes
+:----|:----|:----
+**Mount** | PCB Gasket 
+**Keycaps** | GMK Metropolis R2 | GMK Metropolis Signs + KAM superuser spacebars 
+**Switches** | Gateron Baby Kangaroo 2.0 
+**Stabilizers** | Qwertykeys | Included with Build 
+
 ## W70
 Build post can be found [here](https://lillianwon.com/posts/W70-Build/).
 
@@ -77,13 +92,10 @@ Type|Description|Notes
 ---
 
 # Standby Keycap & Switches
-Here are some keycap sets that I have that aren't being used. 
-They get swapped around every once in a while.
+Here are some keycap sets and switches that aren't being used. 
 
 ## Keycap Sets
-* GMK Metrpolis R2
 * PBTFANS Kabuki-cho 歌舞伎町 R2
 
 ## Switches
-* Gateron Baby Kangaroo 2.0
 * Kailh Box Winter
