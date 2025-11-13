@@ -70,7 +70,7 @@ Type|Description|Notes
 :----|:----|:----
 **Mount** | PCB Gasket 
 **Keycaps** | GMK Metropolis R2 | GMK Metropolis Signs + KAM superuser spacebars 
-**Switches** | Gateron Baby Kangaroo 2.0 
+**Switches** | Gateron Baby Kangaroo 2.0 | Lube with Tribosys 3203 
 **Stabilizers** | Qwertykeys | Included with Build 
 
 ## W70

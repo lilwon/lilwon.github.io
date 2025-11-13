@@ -16,16 +16,17 @@ After using a regular keyboard for my entire life, I wanted to try something
 different, and that's when the QK Alice Duo came in. It's a new keyboard
 made by Qwertykeys and what caught my attention is that the keyboard is split in two.
 
-I think having a split keyboard is very ergonomic for my my hands and arms.
+I think having a split keyboard is very ergonomic for my hands and arms.
 With the keyboard being split, my arms can be at a 90 degree 
 angle while typing, although the mouse placement is a bit weird. What would have been
 an awesome feature was to include a track pad on the QK Alice Duo. Instead, the two 
 dots at the end of the keyboard is a mode to change the RGB on the keyboard 
-(although you can it with Via).
+(although you can adjust it with Via app).
 
 Having the keyboard split into two made me realize how horrible type touching 
 with my right hand is. I realize that my right hand is mainly typing with the index 
-finger and now that I'm using this keyboard, I'm training it to be better. 
+finger and now that I'm using this keyboard, I'm training it to use my middle 
+and ring finger more.
 
 My WPM on a regular keyboard layout is about 140wpm, and it dropped to as low as 90wpm
 with the Alice layout. I think I'll use the QK Alice Duo to practice typing, and switch
