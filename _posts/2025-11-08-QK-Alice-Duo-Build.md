@@ -4,7 +4,7 @@ title: First Ergonomic Keyboard Build - QK Alice Duo
 toc: true
 toc_sticky: true
 excerpt: Split keyboard Alice layout.
-last_modified_at: 2025-11-09
+last_modified_at: 2025-11-16
 ---
 
 ## TLDR
@@ -88,5 +88,15 @@ I will probably swap the Metropolis keycaps out in the future for another future
 The Alice keyboard is very fun to use. I don't think I'll buy another Alice keyboard style
 unless there's a special design or interesting feature with it. This keyboard is already
 interesting enough with it being split into two boards.
+
+## Update
+
+### 2025-11-16
+Swapped the Baby Kangaroo switches to Akko Rosewoods linear switches. Realized that I used
+the Tribosys 3203 instead of the Krytox 205g0 for lube. The Akko Rosewood still
+feels fine even though. 
+
+The keyboard feels a lot better with linear switches and it requires a less actuation force.
+It feels a lot less strenuous to use the keyboard. 
 
 -LW

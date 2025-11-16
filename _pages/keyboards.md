@@ -70,7 +70,7 @@ Type|Description|Notes
 :----|:----|:----
 **Mount** | PCB Gasket 
 **Keycaps** | GMK Metropolis R2 | GMK Metropolis Signs + KAM superuser spacebars 
-**Switches** | Gateron Baby Kangaroo 2.0 | Lube with Tribosys 3203 
+**Switches** | Akko Rosewood | Lube with Tribosys 3203 
 **Stabilizers** | Qwertykeys | Included with Build 
 
 ## W70
@@ -99,3 +99,6 @@ Here are some keycap sets and switches that aren't being used.
 
 ## Switches
 * Kailh Box Winter
+* Gateron Baby Kangaroo V2.0 
+* Wuque WS Morandi (unlubed)
+
