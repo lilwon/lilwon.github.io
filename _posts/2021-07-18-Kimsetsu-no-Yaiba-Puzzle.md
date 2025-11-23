@@ -32,7 +32,7 @@ but their best puzzles are always sold out or backordered.
 </figure>
 
 I always wanted to do a Kimetsu no Yaiba puzzle, but the puzzles that were 
-available were either 500 pieces or 1000 pieces and did not look good. 
+available were either 500 pieces or 1000 pieces and didn't look good. 
 So when I found this puzzle on Amazon JP, I wanted to buy it asap. I showed 
 my boyfriend and he bought it for me. :) It took less than two weeks for the 
 puzzle to arrive, which is about the same as HLJ. 
@@ -51,7 +51,7 @@ The first image to the left is day one. The middle image is day four. And the
 right image is the completed puzzle. 
 
 The puzzle was very annoying because of the dark background. We had to use
-our phones' flashlight to differentiate the colors of the dark pieces. It 
+our phones' flashlights to differentiate the colors of the dark pieces. It 
 got to the point where we started to try to fit all the pieces to wherever
 it may work. Ensky puzzles are great since every piece/connection is unique. 
 

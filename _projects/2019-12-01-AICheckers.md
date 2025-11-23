@@ -8,7 +8,7 @@ excerpt: An AI that plays checkers in C++.
 author_profile: true
 ---
 
-The checkers game was a project for CS-171 Introduction to
+The checkers game was a project for CS-171: Introduction to
 Artificial Intelligence during the Fall 2019 school year.
 
 The class repo can be found [here](https://gitlab.ics.uci.edu/ai-projects/Checkers_Student).
@@ -26,13 +26,13 @@ The class repo can be found [here](https://gitlab.ics.uci.edu/ai-projects/Checke
 ![AI vs Me](http://u.cubeupload.com/lilwon/manual01.png "AI vs Me")
  
 For the first deadline of our project, we had to make our AI smart enough
-to beat RandomAI and PoorAI. RandomAI was an AI that did any valid 
+to beat RandomAI and PoorAI. RandomAI was an AI that made any valid 
 random moves during its turn. PoorAI performed minimax (more info below)
-but with a very small game tree value. 
+but with a very small game tree limit. 
 
-The hardest part of the project was, of course, getting started
-on it. My partner and I had to read through all of the files that were 
-given and break down each functions to understand what it did. Once we 
+The hardest part of the project was, of course, getting started. 
+My partner and I had to read through all of the files that were 
+given and break down each function to understand what it did. Once we 
 knew what functions we needed to use, it was pretty easy to code our own 
 AI.
 
@@ -48,11 +48,11 @@ own optimal move (opponent would have its own max).
 
 What my partner and I chose to do was let the AI play its own game and
 perform minimax before making its best move against the opponent.
-We chose a small arbitrary number, 10, for our game tree. 
-We chose heuristic values for capturing(+5), losing(-3), and 
-kinging(+7) pieces. Using the minimax algorithm beat RandomAI easily. 
+We chose a small arbitrary number, 10, for our game tree depth. 
+We chose heuristic values for capturing (+5), losing (-3), and 
+kinging (+7) pieces. Using the minimax algorithm beat RandomAI easily. 
 
-We tested our algorithm against PoorAI, and it won about ~80% of the time,
+We tested our algorithm against PoorAI, and it won about 80% of the time,
 but to ensure it won every time against the AI, we changed our game tree
 number to 20, so it would predict the better move further into the game.
 This was enough to beat PoorAI.
@@ -85,14 +85,14 @@ a 6 minute time limit to think about all of its move, and if it reaches over
 6 minutes, it would make random moves for the remainder of the game. 
 
 We also reduced time by making our AI choose moves that were obviously
-advantageous (like capturing two or three pieces) and put more priority
+advantageous (like capturing two or three pieces) and putting more priority
 into those moves. 
 
 ### Class Tournament 
 --- 
 Near the end of the quarter, the TAs would host a tournament where 
 everyone's AI would play against each other. Our AI was tied for **3rd
-out of 70 groups** (the tournament was between two lecture sections, so 200+ 
+out of 70 groups** (the tournament was between two lecture sections, so over 200 
 students). 
 
 It definitely made us happy because the top 10 groups would

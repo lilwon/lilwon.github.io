@@ -20,7 +20,7 @@ I wanted something that was more powerful -- something that could handle games,
 PhotoShop, many virtual machines. So it was either purchase a gaming laptop or
 build my own PC... 
 
-I based my build off of [Logical Increment's](https://www.logicalincrements.com/) 
+I based my build off [Logical Increment's](https://www.logicalincrements.com/) 
 Superb build. Since COVID was happening, lots of PC parts were out of stock and
 prices were up. Thankfully I found most of my items on sale through
 /r/buildapcsales.
@@ -49,7 +49,7 @@ I was able to get some things for free because they were gifted to me by
 my friends for my birthday! The total MSRP of all items would be about 
 **$1600**, so I was able to save about $400. I kept a spreadsheet
 to markdown the timeline of when I bought all of the items and built the PC.
-I started looking at PC parts May 19 and purchased all of the parts on June 14. 
+I started looking at PC parts on May 19 and purchased all of the parts on June 14. 
 The day I powered on the PC was July 11, 2020. 
 
 -LW
