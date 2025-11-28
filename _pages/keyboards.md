@@ -101,4 +101,3 @@ Here are some keycap sets and switches that aren't being used.
 * Kailh Box Winter
 * Gateron Baby Kangaroo V2.0 
 * Wuque WS Morandi (unlubed)
-
