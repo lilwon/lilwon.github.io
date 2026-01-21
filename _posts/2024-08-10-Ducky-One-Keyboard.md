@@ -21,7 +21,7 @@ and do some deep cleaning and adjustments.
 
 ## Deconstruction & Reconstruction
 
-### Dissection
+### Dissecting 
 
 <figure class="half">
     <a href="https://u.cubeupload.com/lilwon/Ducky01.jpg">
