@@ -116,7 +116,7 @@ author:
   name             : "Lillian Won"
   avatar           : https://u.cubeupload.com/lilwon/pic4.jpg
   bio              : "je pense, donc je suis"
-  location         : "California"
+  location         : # ""
   email            :
   links:
     - label: "Email"
