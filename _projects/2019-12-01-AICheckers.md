@@ -11,7 +11,7 @@ author_profile: true
 The checkers game was a project for CS-171: Introduction to
 Artificial Intelligence during the Fall 2019 school year.
 
-The class repo can be found [here](https://gitlab.ics.uci.edu/ai-projects/Checkers_Student).
+The framework can be found [here](https://gitlab.ics.uci.edu/ai-projects/Checkers_Student).
 
 
 ## Rules & Limitations
@@ -92,9 +92,11 @@ into those moves.
 --- 
 Near the end of the quarter, the TAs would host a tournament where 
 everyone's AI would play against each other. Our AI was tied for **3rd
-out of 70 groups** (the tournament was between two lecture sections, so over 200 
-students). 
+out of 70 groups** for our lecture section. 
 
-It definitely made us happy because the top 10 groups would
-receive extra credit. Our hard work of trying to make our 
-AI smarter and faster paid off.
+For the tournament results, we ended up in 20th place out of a total of 237 groups. 
+The tournament involved all sections of the CS171 that was offered in the quarter,  
+which is about a total of 300-400 students.  
+
+It definitely made us happy because the top 10 groups in our course section would
+get extra credit. Our hard work of trying to make our AI smarter and faster paid off.
