@@ -11,7 +11,7 @@ author_profile: true
 The checkers game was a project for CS-171: Introduction to
 Artificial Intelligence during the Fall 2019 school year.
 
-The class repo can be found [here](https://gitlab.ics.uci.edu/ai-projects/Checkers_Student).
+The framework can be found [here](https://gitlab.ics.uci.edu/ai-projects/Checkers_Student).
 
 
 ## Rules & Limitations
@@ -23,7 +23,7 @@ The class repo can be found [here](https://gitlab.ics.uci.edu/ai-projects/Checke
 
 ## Approach to creating a smart AI 
 
-![AI vs Me](http://u.cubeupload.com/lilwon/manual01.png "AI vs Me")
+![AI vs Me](https://u.cubeupload.com/lilwon/manual01.png "AI vs Me")
  
 For the first deadline of our project, we had to make our AI smart enough
 to beat RandomAI and PoorAI. RandomAI was an AI that made any valid 
@@ -38,7 +38,7 @@ AI.
 
 #### Minimax algorithm 
 
-![Minimax Example](http://u.cubeupload.com/lilwon/minimaxexample.png "Minimax Example")
+![Minimax Example](https://u.cubeupload.com/lilwon/minimaxexample.png "Minimax Example")
 
 My partner and I first implemented the 
 [minimax algorithm](https://en.wikipedia.org/wiki/Minimax) to defeat RandomAI.
@@ -59,7 +59,7 @@ This was enough to beat PoorAI.
 
 #### Alpha-beta pruning algorithm
 
-![Alpha-beta Pruning Example](http://u.cubeupload.com/lilwon/abprunexample.png "A-B Pruning")
+![Alpha-beta Pruning Example](https://u.cubeupload.com/lilwon/abprunexample.png "A-B Pruning")
 
 [Alpha-beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
 wasn't a difficult algorithm to code since it has the same features as 
@@ -92,9 +92,11 @@ into those moves.
 --- 
 Near the end of the quarter, the TAs would host a tournament where 
 everyone's AI would play against each other. Our AI was tied for **3rd
-out of 70 groups** (the tournament was between two lecture sections, so over 200 
-students). 
+out of 70 groups** for our lecture section. 
 
-It definitely made us happy because the top 10 groups would
-receive extra credit. Our hard work of trying to make our 
-AI smarter and faster paid off.
+For the tournament results, we ended up in 20th place out of a total of 237 groups. 
+The tournament involved all sections of the CS171 that was offered in the quarter,  
+which is about a total of 300-400 students.  
+
+It definitely made us happy because the top 10 groups in our course section would
+get extra credit. Our hard work of trying to make our AI smarter and faster paid off.
