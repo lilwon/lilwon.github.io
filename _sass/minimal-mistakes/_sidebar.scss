@@ -311,11 +311,12 @@
     margin-bottom: 5px;
     padding-block: 2px;
     padding-inline-end: 5px;
-    color: inherit;
+    color: $primary-color; 
     font-size: $type-size-5;
     text-decoration: none;
 
     &:hover {
+      color: $link-color-hover;
       text-decoration: underline;
     }
   }
