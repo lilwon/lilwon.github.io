@@ -28,10 +28,11 @@
   }
 
   a {
-    color: inherit;
+    color: $primary-color;
     text-decoration: none;
 
     &:hover {
+      color: $link-color-hover;
       text-decoration: underline;
     }
   }
