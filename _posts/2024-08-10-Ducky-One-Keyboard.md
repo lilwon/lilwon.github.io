@@ -97,7 +97,9 @@ I honestly could have just left the board desoldered and sell the Cherry MX Brow
 I don't have any plans of using this keyboard in the future. This keyboard was more like a test run of my soldering
 and desoldering skills. I guess my skills were fine because the keyboard is still fully functional!   
 
-## November 2025 Update
+## Update
+
+### 2025-11
 
 As of November 2025, I gave the Ducky One away. I have no use for it anymore and I probably wouldn't
 get any resell value out of it. Like come on, this is a keyboard made in 2016! Mechanical keyboards have come
