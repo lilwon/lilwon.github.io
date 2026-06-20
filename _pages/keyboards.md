@@ -62,15 +62,15 @@ Type|Description|Notes
 ## QK Alice Duo*
 Build post can be found [here](https://lillianwon.com/posts/QK-Alice-Duo-Build/)
 <figure class="align-center" style="width: 500px">
-  <img src="https://u.cubeupload.com/lilwon/QKAliceDuo6.jpg">
+  <img src="https://u.cubeupload.com/lilwon/qkaliceduo.jpg">
 </figure>
 
 
 Type|Description|Notes
 :----|:----|:----
 **Mount** | PCB Gasket 
-**Keycaps** | GMK Metropolis R2 | GMK Metropolis Signs + KAM superuser spacebars 
-**Switches** | Akko Rosewood | Lube with Tribosys 3203 
+**Keycaps** | GMK Mictlan Rebirth  
+**Switches** | Akko Rosewood | Lubed with Tribosys 3203 
 **Stabilizers** | Qwertykeys | Included with Build 
 
 ## W70
@@ -84,7 +84,7 @@ Build post can be found [here](https://lillianwon.com/posts/W70-Build/).
 Type|Description|Notes
 :----|:----|:----
 **Mount** | Spring 
-**Keycaps** | GMK Yeeti | GMK Metropolis Signs   
+**Keycaps** | TBA 
 **Switches** | Gateron Oil King
 **Stabilizers** | AEBoards Staebies
 
@@ -96,6 +96,8 @@ Here are some keycap sets and switches that aren't being used.
 
 ## Keycap Sets
 * PBTFANS Kabuki-cho 歌舞伎町 R2
+* GMK Metropolis R2 
+* GMK Yeeti 
 
 ## Switches
 * Kailh Box Winter
