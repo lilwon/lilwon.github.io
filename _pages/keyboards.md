@@ -78,13 +78,13 @@ Build post can be found [here](https://lillianwon.com/posts/W70-Build/).
 
 
 <figure class="align-center" style="width: 500px">
-  <img src="https://u.cubeupload.com/lilwon/w70update.jpg">
+  <img src="https://u.cubeupload.com/lilwon/W70update2.jpg">
 </figure>
 
 Type|Description|Notes
 :----|:----|:----
 **Mount** | Spring 
-**Keycaps** | TBA 
+**Keycaps** | Keykobo Kintsugi Shiro | Hiragana Base + Novelties
 **Switches** | Gateron Oil King
 **Stabilizers** | AEBoards Staebies
 
