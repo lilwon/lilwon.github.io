@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "catppuccin_mocha" # "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
+direction                : # "ltr" (default), "rtl" # set the direction of the page
 title                    : "Lillian Won"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -229,7 +229,8 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  quiet_deps: true
+  silence_deprecations: ['import']
 
 # Outputting
 permalink: /:categories/:title/
